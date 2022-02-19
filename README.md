@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yoga!
 - 👀 I’m interested in music production and web development
 - 🌱 I’m currently working as a Digital Content Writer
-- 💞️ I’m looking to collaborate on opportunity that gives me a chance to grow
+- 💞️ I’m looking to look for opportunity that gives me a chance to improve
 - 📫 How to reach me @yoga.krisanta@hostinger.com
 
 <!---
